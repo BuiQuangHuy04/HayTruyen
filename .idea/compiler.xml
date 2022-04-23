@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="untitled1" />
         <module name="MangaWeb" />
+        <module name="haytruyen" />
       </profile>
     </annotationProcessing>
   </component>
